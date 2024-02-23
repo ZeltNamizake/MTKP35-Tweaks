@@ -8,7 +8,7 @@ Tweak Performance Mediatek P35 Only - Termux Root
 ## System Requirements:
 - <b>Android 11</b>
 - <b>Access root in Device</b>
-- <b>Not using Module Magisk</b>
+- <b>Does not use any additional modules</b>
 
 I have tried on a Samsung A03S device and
 goes well
